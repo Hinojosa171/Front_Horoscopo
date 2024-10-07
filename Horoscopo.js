@@ -1,1 +1,1 @@
-Front de horoscopo
+front
