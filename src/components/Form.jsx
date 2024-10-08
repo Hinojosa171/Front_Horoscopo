@@ -11,7 +11,7 @@ function Form() {
         event.preventDefault();
 
         try {
-            const response = await fetch('/login', {
+            const response = await fetch('htts://horoscopo-back-seven.vercel.app/login', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
